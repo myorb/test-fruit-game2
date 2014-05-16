@@ -166,6 +166,11 @@ html , body
 #results #score img {
     vertical-align: middle;
 }
+#start {
+    height: 32px;
+    background: orange;
+    border: solid;
+}
 
 
 .button
